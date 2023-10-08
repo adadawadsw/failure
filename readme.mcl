@@ -1,0 +1,4 @@
+1. git init ( tạo file git trong file đã chọn để cấu hình)
+2. git add . (chọn hết tất cả file folder trong thư mục đang chọn git comit)
+3. git commit -m "First commit" (commit lần đầu tiên với message là "First commit")
+4. git branch 
